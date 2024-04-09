@@ -6,7 +6,7 @@ import Search from './components/Search'
 import Selects from './components/Selects'
 import Carousel from './components/Carousel'
 import Footer from './components/Footer'
-import Hero2 from './components/Hero2'
+
 
 
 function App() {
